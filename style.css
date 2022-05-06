@@ -1,0 +1,140 @@
+body{
+    font-family: Arial, Tahoma;
+    font-size: 18px;
+}
+
+
+.head{
+    width: 100%;
+    height: 100px;
+    
+}
+.head img{
+    width: 20%;
+    height: 80%;
+    padding: 10px;
+}
+
+.head-link{
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    background: lightgrey;
+}
+.item li{
+    display: inline;
+    margin: auto;
+    max-width: 50px;
+    
+    
+}
+
+.left-content{
+     width: 30%;
+     height: 1000px;
+     float: left;
+     
+}
+.movie img{
+    width:93%;
+    height: 180px;
+    padding: 10px;
+}
+.movie p{
+   padding-left: 10px;
+   margin: 0;
+   font-size: 14px;
+}
+.movie span{
+    margin: 0;
+    font-size: 14px;
+    color: dimgray;
+ }
+
+.movie1 img{
+    width:93%;
+    height: 180px;
+    padding: 10px;
+}
+.movie1 p{
+    padding-left: 10px;
+   margin: 0;
+   font-size: 14px;
+}
+.movie1 span{
+    margin: 0;
+    font-size: 14px;
+    color: dimgray;
+ }
+
+.movie2 img{
+    padding-left: 10px;
+    width:93%;
+    height: 180px;
+    padding: 10px;
+}
+.movie2 p{
+    padding-left: 10px;
+   margin: 0;
+   font-size: 14px;
+}
+.movie2 span{
+    margin: 0;
+    font-size: 14px;
+    color: dimgray;
+ }
+
+.movie3 img{
+    width:93%;
+    height: 180px;
+    padding: 10px;
+}
+.movie3 p{
+    padding-left: 10px;
+   margin: 0;
+   font-size: 14px;
+}
+.movie3 span{
+    margin: 0;
+    font-size: 14px;
+    color: dimgray;
+ }
+
+.right-content{
+     width: 70%;
+     height: 1000px;
+     float: left;
+}
+iframe{
+    padding: 10px;
+}
+.right-content p{
+    padding-left: 10px;
+   margin: 0;
+   font-size: 14px;
+}
+.right-content p span{
+    margin: 0;
+    font-size: 14px;
+    color: dimgray;
+}
+.tacgia{
+    padding-top: 20px;
+    margin: 0;
+    font-size: 20px;
+    color: dimgray;
+}
+.tacgia1{
+    padding-top: 20px;
+    margin: 0;
+    font-size: 20px;
+    color: dimgray;
+}
+.footer{
+    width: 100%;
+    height: 50px;
+    background: lightgrey;
+    float: left;
+    text-align: center;
+
+}
